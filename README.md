@@ -1,4 +1,4 @@
-# Project Title: Test Checker Mobile Application
+# Test Checker Mobile Application
 
 ## Description:
 Develop a mobile application for checking tests. The test consists of a paper table with a question number, answer options marked in columns, and a printed group number and student's name (or student ID).
