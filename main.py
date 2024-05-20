@@ -83,7 +83,7 @@ async def run_server():
     """
     Starts the FastAPI server.
     """
-    u_config = uvicorn.Config("main:app", host="0.0.0.0", port=8088, log_level="info", reload=True)
+    u_config = uvicorn.Config("main:app", host="0.0.0.0", port=8080, log_level="info", reload=True)
     server = uvicorn.Server(u_config)
     await server.serve()
 

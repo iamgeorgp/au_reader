@@ -188,6 +188,11 @@ def find_answer(true_main_row_contours, true_main_column_contours, marked_contou
                     })
                     result["total-correct-answers"] += 1
                 else:
+                    result["answer"].append({
+                    "question": row,
+                    "answer": col,
+                    "correct-answer": correct_answer_value
+                    })
                     result["total-incorrect-answers"] += 1
                 found = True
                 
