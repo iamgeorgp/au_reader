@@ -1,0 +1,43 @@
+{
+    "answers": [
+        {
+            "question": "1",
+            "answer": "A",
+            "correct-answer": "B"
+        },
+        {
+            "question": "3",
+            "answer": "C",
+            "correct-answer": "B"
+        },
+        {
+            "question": "5",
+            "answer": "C",
+            "correct-answer": "B"
+        },
+        {
+            "question": "6",
+            "answer": "B",
+            "correct-answer": "B"
+        },
+        {
+            "question": "4",
+            "answer": "D",
+            "correct-answer": "B"
+        },
+        {
+            "question": "2",
+            "answer": "B",
+            "correct-answer": "B"
+        },
+        {
+            "question": "7",
+            "answer": "A",
+            "correct-answer": "B"
+        }
+    ],
+    "total-correct-answers": 10,
+    "total-incorrect-answers": 14,
+    "test_number": 1,
+    "runtimeType": "results"
+}
